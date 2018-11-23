@@ -1,6 +1,7 @@
 
 
-
+下载项目：
+git clone https://github.com/kevinWuqisheng/doc.git
 
 
 https://github.com/kevinWuqisheng/doc.git
