@@ -1,11 +1,15 @@
 
 
+
 下载项目：
 git clone https://github.com/kevinWuqisheng/doc.git
 
+https://www.yiibai.com/git/git_merge.html
 
-https://github.com/kevinWuqisheng/doc.git
+http://www.open-open.com/lib/view/open1427336897418.html
 
+
+拉取远程仓库：$ git pull [remoteName] [localBranchName]
 
 init 对自己某一个目录进行版本控制
 
