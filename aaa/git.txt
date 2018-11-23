@@ -1,6 +1,7 @@
 
 
-
+下载项目：
+git clone https://github.com/kevinWuqisheng/doc.git
 
 
 init 对自己某一个目录进行版本控制
