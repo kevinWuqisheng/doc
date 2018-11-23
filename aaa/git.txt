@@ -3,6 +3,9 @@
 
 
 
+https://github.com/kevinWuqisheng/doc.git
+
+
 init 对自己某一个目录进行版本控制
 
 
@@ -40,6 +43,16 @@ git push origin v1
 
 git status 
 
+
+--- 合并分支：先切换到master，之后合并v1, 最后推送上去
+
+$ git checkout master
+
+$ git branch
+
+$ git merge v1
+
+$ git push origin master
 
 
 
